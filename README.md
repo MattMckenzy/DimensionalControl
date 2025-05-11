@@ -1,5 +1,6 @@
-<img src="logo.png" style="float: left;" height="80" /><h1 style="text-align: center; line-height: 2em;">Dimensional Control</h1>
+# Dimensional Control
 
+<img src="logo.png" align="left" height="80" />
 Dimensional Control is a lightweight Minecraft NeoForge mod for **Minecraft 1.21.1** that allows you to **control where resources can spawn** based on dimension-based rules. This mod was derived from **DimStructRestrict**, a mod by **Troy Cook (@cookta2012)**. This mod provides fine-grained control over world generation and spawning behavior — especially useful for modpack developers and world designers.
 
 ---
